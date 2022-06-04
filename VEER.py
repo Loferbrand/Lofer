@@ -74,9 +74,6 @@ def notice():
 
 	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
 	os.system("xdg-open https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl")
-	runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(G,basesplit))
-	runtxt("\033[0;97m Key group admin ke post pe coment krein")
-	os.system("xdg-open https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl")
 	subprocess.check_output(["am", "start", "https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl"])
 	
 
@@ -118,11 +115,14 @@ class Main:
 		os.system("clear")
 		#yahan logo lagana apna
 		print ("""
-   ____                       __    _ 
-  / __ \__  __________  _____/ /_  (_)
- / / / / / / / ___/ _ \/ ___/ __ \/ / 
-/ /_/ / /_/ / /  /  __(__  ) / / / / •Mr Qureshi
-\___\_\__,_/_/   \___/____/_/ /_/_/ √Master Mind🥺❤️                                     
+    /$$        /$$$$$$  /$$$$$$$$ /$$$$$$$$ /$$$$$$$ 
+| $$       /$$__  $$| $$_____/| $$_____/| $$__  $$
+| $$      | $$  \ $$| $$      | $$      | $$  \ $$
+| $$      | $$  | $$| $$$$$   | $$$$$   | $$$$$$$/
+| $$      | $$  | $$| $$__/   | $$__/   | $$__  $$
+| $$      | $$  | $$| $$      | $$      | $$  \ $$
+| $$$$$$$$|  $$$$$$/| $$      | $$$$$$$$| $$  | $$
+|________/ \______/ |__/      |________/|__/  |__/🥺❤️                                     
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Wasi Qureshi\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 6\x1b[0m\x1b[1;97m] \033[1;37m 
@@ -138,7 +138,6 @@ class Main:
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("───────────────────────────────────────────────────────× ")
 		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m SUBCRIBE MY CHANEL FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
-		subprocess.check_output(["am", "start", "https://youtube.com/channel/UCOo-omO_OVoU0B1109O0Z8g"])
 		print("───────────────────────────────────────────────────────× ")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free Trail)"%(G,R,G,Y,B))
 		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ")
